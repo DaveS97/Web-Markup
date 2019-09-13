@@ -1,0 +1,3 @@
+student name: Davey Smit
+student number: 650549
+student class: INF-1a
